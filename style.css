@@ -1,0 +1,55 @@
+
+body {
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: "Arial", Sans-serif;
+    color: rgb(242, 250, 255);
+}
+
+div{
+    width: 180px;
+    border: 8px solid rgb(205, 233, 243);
+    padding: 50px;
+    margin: 70px;
+    border-radius: 20px;
+}
+
+
+h1{
+    text-indent: 150px;
+    text-shadow: 1px 1px 5px rgb(77, 195, 216);
+    font-family: 'Lucida Handwriting',Cursive;
+}
+
+h2{
+    text-indent:30px;
+    
+}
+
+h4{
+    text-indent:45px;
+}
+h6{
+    text-indent:35px;
+    opacity: 0.4;
+}
+button{
+    border-radius: 13px;
+    padding: 12px 28px;
+    
+    background-color: #44b5c8;
+    position:relative; 
+    left:40px; 
+    top:2px;
+
+}
+
+input[type=text] {
+    border: 100px solid #eee;
+    border-radius:10px;  
+    text-align: center; 
+    outline:none; 
+}
+
